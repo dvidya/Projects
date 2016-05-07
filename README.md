@@ -1,3 +1,3 @@
 # Portfolio
 
-List of projects presented in portfolio.
+List of projects 
