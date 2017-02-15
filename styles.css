@@ -1,0 +1,92 @@
+/* add your CSS here */
+
+body {
+	font-family: Arial, sans-serif,Georgia;
+}
+
+.card {
+	width: 320px;
+	border: 5px solid #006000;
+	border-radius: 10px;
+	background-image: url("gradient_bg.jpg");
+	box-shadow: 2px 4px 2px rgba(163,163,163, 0.7);
+}
+
+img {
+  display: block;
+  margin: auto;
+  border-radius: 10px;
+  width: 95%;
+  border: 2px solid #d3d3d3;
+}
+
+.animal-trivia {
+  font-style: italic;
+  font-size: 13px;
+  font-family: Georgia;
+}
+
+span{
+	font-weight: bold;
+	font-style:normal;
+	color:#004700;
+}
+
+.decor {
+  border-radius: 4px;
+  border: 1px black;
+  box-shadow: 3px 3px 6px 1px rgba(0, 0, 0, 0.36);
+  padding: 5px;
+  padding-top: 5px;
+
+
+
+}
+.top {}
+
+.species{
+  box-sizing: border-box; 
+  border: #d3d3d3 2px;
+  border-radius: 4px;
+  background-color: rgba(255,255,255, 0);
+  color: #ffffff;
+  display: inline-block;
+  padding: 11px;
+  margin-left: 83px;
+}
+
+.bottom_ {
+  border: 2px double #d3d3d3;
+  width: 95%;
+  border-radius: 10px;
+  margin: 10px;
+  color: #004700;
+  background-color: rgba(228,218,218,0.1);
+}
+
+h3 {
+  color: #006000;
+  font-size: 25px;
+  text-align: center;
+  text-decoration: underline;
+  height: 5px;
+  width:70px;
+  padding-top: 2px;
+  font-family: "Sans Serif";
+  font-weight: bolder;
+  display: inline-block;
+  margin: 0 auto;
+}
+
+p {
+  padding: 0 15px;
+  text-indent: 30px;
+  font-size: 15px;
+  font-family: Georgia;
+  text-align: justify;
+}
+
+ul {
+  list-style: none;
+  padding: 0 20px;
+}
